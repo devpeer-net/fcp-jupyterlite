@@ -6,6 +6,8 @@
         "jupyterlab-kernel-spy",
         "jupyterlab-tour"
       ]
+      "workspaces": [
+        { "name": "default",
+          "files": [ { "path": "content/python.ipynb" } ] }]
     }
   }
-  
